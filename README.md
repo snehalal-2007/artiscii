@@ -5,7 +5,7 @@ Real-time webcam to ASCII art in the browser (React + Vite, client-side only).
 ## Run locally
 
 ```bash
-cd ascii_art/artiscii
+cd artiscii
 npm install
 npm run dev
 ```
